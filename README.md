@@ -7,7 +7,7 @@
 A xkcd password generator written in PHP to generate random xkcd passwords for the users based on the length they provide and if they require number or special character. It uses a set of words to demonstrate the functionality of picking up random words from the list and then appending it with a number or special character as is requested by the user. For special characters, a random number from the special character ascii set (which is 32 - 47) is used. 
 
 ## Demo
-<https://youtu.be/iKING6sHOXg>
+<https://youtu.be/DvRMCc_xi9c>
 
 ## Details for teaching team
 No login required.
